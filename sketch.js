@@ -5,7 +5,7 @@
   }
   
   function draw() {
-    background(0);
+    background(58, 113, 183);
     //body
     beginShape();
     translate(mouseX, mouseY);
